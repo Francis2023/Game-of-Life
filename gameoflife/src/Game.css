@@ -1,0 +1,19 @@
+.Board {
+    position: relative;  
+    margin: 0 auto; 
+    background-color:grey;
+    background-image: linear-gradient(black 1px, transparent 1px),linear-gradient(90deg, #333 1px, transparent 1px);
+}
+
+.Header {
+    text-align: center;
+}
+
+.Cell {  
+    background: black;  
+    position: absolute;
+}
+
+.controls {
+    text-align: center;
+}
