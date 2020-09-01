@@ -13,7 +13,15 @@
     background: black;  
     position: absolute;
 }
+.button:hover {
+    border-radius: 6px;
+    color: white;
+    background: black;
+   
+}
 
 .controls {
+    padding-top: 15px;
+    padding-bottom: 15px;
     text-align: center;
 }
